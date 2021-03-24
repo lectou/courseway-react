@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as Advantages } from './Advantages/index';
+export { default as Courses } from './Courses';
+export { default as Partners } from './Partners';
+export { default as Certificate } from './Certificate';
+export { default as Developers } from './Developers';
+export { default as Registration } from './Registration';
+export { default as Footer } from './Footer';
+export { default as MobileMenu } from './MobileMenu';
