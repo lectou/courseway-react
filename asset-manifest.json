@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/courseway-react/static/css/main.a66c3788.chunk.css",
+    "main.js": "/courseway-react/static/js/main.bcfa2ffe.chunk.js",
+    "main.js.map": "/courseway-react/static/js/main.bcfa2ffe.chunk.js.map",
+    "runtime-main.js": "/courseway-react/static/js/runtime-main.f50db7b0.js",
+    "runtime-main.js.map": "/courseway-react/static/js/runtime-main.f50db7b0.js.map",
+    "static/js/2.cc21527c.chunk.js": "/courseway-react/static/js/2.cc21527c.chunk.js",
+    "static/js/2.cc21527c.chunk.js.map": "/courseway-react/static/js/2.cc21527c.chunk.js.map",
+    "index.html": "/courseway-react/index.html",
+    "static/css/main.a66c3788.chunk.css.map": "/courseway-react/static/css/main.a66c3788.chunk.css.map",
+    "static/js/2.cc21527c.chunk.js.LICENSE.txt": "/courseway-react/static/js/2.cc21527c.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/courseway-react/static/media/header-image.0abd0c81.jpg",
+    "static/media/algoritm.0f01219d.png": "/courseway-react/static/media/algoritm.0f01219d.png",
+    "static/media/cambridge.2bf0f851.png": "/courseway-react/static/media/cambridge.2bf0f851.png",
+    "static/media/economic.8ef441af.png": "/courseway-react/static/media/economic.8ef441af.png",
+    "static/media/harvard_university.1aa3351e.png": "/courseway-react/static/media/harvard_university.1aa3351e.png",
+    "static/media/history.42f969c1.png": "/courseway-react/static/media/history.42f969c1.png",
+    "static/media/mit_crest.0fbd20b7.png": "/courseway-react/static/media/mit_crest.0fbd20b7.png",
+    "static/media/programming.75c0b9b1.png": "/courseway-react/static/media/programming.75c0b9b1.png",
+    "static/media/team-1.8b6331d6.jpg": "/courseway-react/static/media/team-1.8b6331d6.jpg",
+    "static/media/team-2.5c43486f.jpg": "/courseway-react/static/media/team-2.5c43486f.jpg",
+    "static/media/team-3.3f085af4.jpg": "/courseway-react/static/media/team-3.3f085af4.jpg",
+    "static/media/team-4.6a68e864.jpg": "/courseway-react/static/media/team-4.6a68e864.jpg",
+    "static/media/ucla.5e6f8118.png": "/courseway-react/static/media/ucla.5e6f8118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50db7b0.js",
+    "static/js/2.cc21527c.chunk.js",
+    "static/css/main.a66c3788.chunk.css",
+    "static/js/main.bcfa2ffe.chunk.js"
+  ]
+}
